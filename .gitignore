@@ -1,3 +1,4 @@
 *.txt
-#newfile.txt
+!waqas2.txt
+
 
